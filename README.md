@@ -12,20 +12,6 @@ My journey combines **science, data, and education**. I started from a strong fo
 
 ---
 
-## 🎓 Education
-
-- **Postgraduate Diploma in Data Science with AI**  
-  NED University of Engineering and Technology (2025–Present)
-
-- **Applied AI Lab: Deep Learning for Computer Vision**  
-  WorldQuant University (2025)
-
-- **Bachelor of Science in Industrial Chemistry**  
-  NED University of Engineering and Technology (2018–2022)  
-  CGPA: 3.87 / 4.00
-
----
-
 ## 🧠 Skills
 
 ### 💻 Programming & Tools
